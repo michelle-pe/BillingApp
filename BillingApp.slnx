@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BillingApp.Business/BillingApp.Business.csproj" Id="09a67e81-9ed8-4094-baf4-9dc6230781e1" />
+  <Project Path="BillingApp.Data/BillingApp.Data.csproj" Id="0d55dbd7-49b2-4f93-b0fa-ce667ea76f18" />
+  <Project Path="BillingApp.Web/BillingApp.Web.csproj" Id="abadbca1-4c25-447a-aef0-9902dae1a1bc" />
+</Solution>
